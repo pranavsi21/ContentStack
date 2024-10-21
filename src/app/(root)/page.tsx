@@ -56,7 +56,7 @@ export default function Home() {
         </CardHeader>
         <CardContent>
           <p className="text-lg">
-            At InnoTech Solutions, we're committed to driving innovation and delivering 
+            At InnoTech Solutions, we&apos;re committed to driving innovation and delivering 
             exceptional results. Our team of experts combines deep industry knowledge 
             with cutting-edge technology to help your business thrive in the digital age.
           </p>
